@@ -1,10 +1,7 @@
-<h1>Nikos Cocci</h1>
-<p>Hi i'm Nikos - I'm a Full-Stack Developer that has been studying in this field for several years. I like to be challenged, embrace new technologies and i can work on a tight schedule.</p>
+<h1>Hi i'm Nikos</h1>
+<p>I'm a Full-Stack Developer that has been studying in this field for several years. I like to be challenged, embrace new technologies and i can work on a tight schedule.</p>
 <br>
 <p>Experienced in JavaScript technologies such as: React JS, React Native, Node, Express, Socket.io, GraphQL, Koa, MongoDB and SQL.</p>
-<p>
-  <img src="https://raw.githubusercontent.com/Nik439/Images/master/waves_resize.svg" height="200" width="100%" ></img>
-</p>
 
 <h2>Favourite Technologies:</h2>
 
@@ -14,6 +11,10 @@
 ★ Socket.io
 ★ MongoDB
 ```
+
+<p>
+  <img src="https://raw.githubusercontent.com/Nik439/Images/master/waves_resize.svg" height="200" width="100%" ></img>
+</p>
 
 
 <!--
