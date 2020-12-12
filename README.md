@@ -1,8 +1,8 @@
 <h1>Hi i'm Nikos</h1>
 <p>I'm a Full-Stack Developer that has been studying in this field for several years. I like to be challenged, embrace new technologies and i can work on a tight schedule.</p>
-<br>
-<p>Experienced in JavaScript technologies such as: React JS, React Native, Node, Express, Socket.io, GraphQL, Koa, MongoDB and SQL.</p>
 
+<p>Experienced in JavaScript technologies such as: React JS, React Native, Node, Express, Socket.io, GraphQL, Koa, MongoDB and SQL.</p>
+<br>
 <h2>Favourite Technologies:</h2>
 
 ```
