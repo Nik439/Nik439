@@ -1,7 +1,7 @@
 <h1>Nikos Cocci</h1>
 <p>Hi i'm Nikos - I'm a Full-Stack Developer that has been studying in this field for several years. I like to be challenged, embrace new technologies and i can work on a tight schedule.</p>
 <p>
-  <img src="https://raw.githubusercontent.com/Nik439/Images/master/waves.svg" height="150" width="100%" ></img>
+  <img src="https://raw.githubusercontent.com/Nik439/Images/master/waves.svg" height="200" width="100%" ></img>
 </p>
 
 <!--
